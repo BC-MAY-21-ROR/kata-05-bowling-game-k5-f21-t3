@@ -1,4 +1,4 @@
-
+#game test
 require_relative '../app/game'
 
 describe Game do

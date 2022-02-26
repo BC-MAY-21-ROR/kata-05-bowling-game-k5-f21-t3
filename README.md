@@ -2,7 +2,10 @@
 
 # Kata El Juego de Boliche
 ![cover](img/cover.jpg)
+# Score Rubycritic
+[![RubyCritic](badges/rubycritic_badge_score.svg)]
 
+[![RubyCritic](badges/rubycritic_badge_score1.svg)]
 ## Pre-requisitos
 Para evaluar tu código e identificar posibles mejoras debes instalar y utilizar las siguientes herramientas:
 
